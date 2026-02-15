@@ -13,4 +13,4 @@ Flashcards
 Video Lessons
 - Goal: provide interactive video content for learning
 - [Use Case Diagram: Video](https://github.com/edmnikolaeva/use_case/blob/main/use_case_video.png)  
-- [Use Case Diagram: Video](https://github.com/edmnikolaeva/use_case/blob/main/use_case_таблица_видео.pdf)
+- [Use Case Table: Video](https://github.com/edmnikolaeva/use_case/blob/main/use_case_таблица_видео.pdf)
