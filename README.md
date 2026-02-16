@@ -6,8 +6,8 @@
 ---
 
 ### ARTIFACTS
-- 👉[View Use Case Diagram](https://github.com/edmnikolaeva/use_case/blob/main/use_case_video.png)
-- 👉[View Use Case Table](https://github.com/edmnikolaeva/use_case/blob/main/use_case_таблица_видео.pdf)
+- 👉[Use Case Diagram](https://github.com/edmnikolaeva/use_case/blob/main/use_case_video.png)
+- 👉[Use Case Table](https://github.com/edmnikolaeva/use_case/blob/main/use_case_таблица_видео.pdf)
 
 ---
 
