@@ -2,6 +2,9 @@
 - This repository demonstrates Use Case modeling for a language school web application
 - Features were analyzed from stakeholder interviews
 - Represented in UML Use Case Diagram and Use Case Table (following Alistair Cockburn’s methodology)
+
+---
+
 - 👉[View Use Case Diagram](https://github.com/edmnikolaeva/use_case/blob/main/use_case_video.png)
 - 👉[View Use Case Table](https://github.com/edmnikolaeva/use_case/blob/main/use_case_таблица_видео.pdf)
 
